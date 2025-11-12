@@ -76,7 +76,7 @@ const skills = [
 
 
 const stats = [
-  { number: "6+", label: "Projects Completed", icon: <RocketLaunchIcon className="h-6 w-6 text-primary-500 mx-auto mb-2" /> },
+  { number: "8+", label: "Projects Completed", icon: <RocketLaunchIcon className="h-6 w-6 text-primary-500 mx-auto mb-2" /> },
   { number: "Fresher", label: "Actively Learning", icon: <BriefcaseIcon className="h-6 w-6 text-primary-500 mx-auto mb-2" /> },
   { number: "100%", label: "Dedication & Commitment", icon: <StarIcon className="h-6 w-6 text-primary-500 mx-auto mb-2" /> },
   { number: "Java & React", label: "Full-Stack Focus", icon: <CodeBracketSquareIcon className="h-6 w-6 text-primary-500 mx-auto mb-2" /> },
